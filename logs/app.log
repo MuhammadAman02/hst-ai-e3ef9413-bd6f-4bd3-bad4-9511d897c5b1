@@ -1,0 +1,21 @@
+2025-05-27 00:08:52 - app - INFO - __init__:<module>:30 - Using static directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\static
+2025-05-27 00:08:52 - app - INFO - __init__:<module>:38 - Using templates directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\templates
+2025-05-27 00:08:52 - app.core.error_handling - INFO - error_handling:register_exception_handlers:50 - Custom exception handlers registered.
+2025-05-27 00:08:54 - app - INFO - __init__:startup_event:67 - Starting My Enterprise App v1.0.0 (development)
+2025-05-27 00:13:51 - app - INFO - __init__:shutdown_event:72 - Shutting down My Enterprise App
+2025-05-27 00:14:11 - app - INFO - __init__:<module>:30 - Using static directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\static
+2025-05-27 00:14:11 - app - INFO - __init__:<module>:38 - Using templates directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\templates
+2025-05-27 00:14:11 - app.core.error_handling - INFO - error_handling:register_exception_handlers:50 - Custom exception handlers registered.
+2025-05-27 00:14:11 - app - INFO - __init__:startup_event:67 - Starting My Enterprise App v1.0.0 (development)
+2025-05-27 00:15:05 - app - INFO - __init__:shutdown_event:72 - Shutting down My Enterprise App
+2025-05-27 00:15:16 - app - INFO - __init__:<module>:30 - Using static directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\static
+2025-05-27 00:15:16 - app - INFO - __init__:<module>:38 - Using templates directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\templates
+2025-05-27 00:15:16 - app.core.error_handling - INFO - error_handling:register_exception_handlers:50 - Custom exception handlers registered.
+2025-05-27 00:15:17 - app - INFO - __init__:startup_event:67 - Starting My Enterprise App v1.0.0 (development)
+2025-05-27 00:16:30 - app - INFO - __init__:shutdown_event:72 - Shutting down My Enterprise App
+2025-05-27 00:18:39 - app - INFO - __init__:<module>:30 - Using static directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\static
+2025-05-27 00:18:39 - app - INFO - __init__:<module>:38 - Using templates directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\templates
+2025-05-27 00:18:39 - app.core.error_handling - INFO - error_handling:register_exception_handlers:50 - Custom exception handlers registered.
+2025-05-27 00:21:02 - app - INFO - __init__:<module>:30 - Using static directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\static
+2025-05-27 00:21:02 - app - INFO - __init__:<module>:38 - Using templates directory at C:\Users\kisho\Desktop\HSTAIEngineer\project_base\app\templates
+2025-05-27 00:21:02 - app.core.error_handling - INFO - error_handling:register_exception_handlers:50 - Custom exception handlers registered.
